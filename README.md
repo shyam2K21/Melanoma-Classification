@@ -22,9 +22,6 @@ Among skin cancer diseases, melanoma is one of the most common and most dangerou
 ## Directory structure and files
 
 
-![directory structure](images/directorystructure.png)
-
-
 The used dataset can be downloaded here:
 
 https://doi.org/10.34970/2020-ds01
@@ -47,7 +44,7 @@ https://www.kaggle.com/competitions/siim-isic-melanoma-classification/overview
 
 ## Results
 
-With the current hyperparametrization, the models performed as the followings:
+With the current hyperparametrization, the model performed as the followings:
 
 | Base Models    | Loss   | Accuracy |
 | -------------- | ------ | -------- |
