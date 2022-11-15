@@ -44,7 +44,7 @@ https://www.kaggle.com/competitions/siim-isic-melanoma-classification/overview
 
 ## Results
 
-With the current hyperparametrization, the model performed as the followings:
+With the current hyperparametrization, the model performed as the following:
 
 | Base Models    | Loss   | Accuracy |
 | -------------- | ------ | -------- |
