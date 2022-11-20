@@ -48,7 +48,7 @@ With the current hyperparametrization, the model performed as the following:
 
 | Base Models    | Loss   | Accuracy |
 | -------------- | ------ | -------- |
-| EfficientNetB7 | 0.1540 | 93.90 %  |
+| EfficientNetB7 | 0.214 | 92.71 %  |
 
 
 
